@@ -1,0 +1,28 @@
+#main{
+    height:200px;
+    width:70px;
+    border:2px solid black;
+}
+#main div{
+    height: 50px;
+    width: 50px;
+    border:2px solid black;
+    margin:10px;
+    border-radius: 50%;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.stand{
+    border:2px solid black;
+    width:20px;
+    height:200px;
+    margin-left: 24px;
+    background-color:black;
+}
